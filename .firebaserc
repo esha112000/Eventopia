@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "eventopia-f0482",
+    "staging": "eventopia-f0482"
+  },
+  "targets": {},
+  "etags": {}
+}
