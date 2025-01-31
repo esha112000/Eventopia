@@ -1,4 +1,4 @@
-#Eventopia - Smart Event Management System
+# Eventopia - Smart Event Management System
 Eventopia is a modern event management application designed to streamline event discovery, booking, and ticket management. Built with Flutter for cross-platform compatibility, it integrates Firebase for authentication, Firestore as the database, and Firebase Storage for media handling. The app provides users with a seamless way to browse and book events while supporting both free and paid ticketing via Stripe Payment Gateway.
 
 Users can browse events by category, filter based on preferences, and mark favorite events. The booking system ensures smooth event reservations, and successful transactions trigger automated email confirmations via Firebase Functions and Nodemailer. Event data is dynamically fetched from Firestore, ensuring real-time updates.
